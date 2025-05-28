@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack:
 
 - 🔹 Programming: `Python`, `C`
-- 🔹 Tools: `Git`, `GitHub`, `VS Code`, `Jupyter Notebook`,‘pydroid 3’,‘C coding’
+- 🔹 Tools: `Git`, `GitHub`, `VS Code`, `Jupyter Notebook` , pydroid 3 , C coding
 - 🔹 Libraries: `Pandas`, `NumPy`, `Matplotlib`
 
 ---
